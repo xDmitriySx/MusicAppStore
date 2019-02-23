@@ -17,7 +17,7 @@ import { Card, Icon, Image, Button, Popup } from 'semantic-ui-react'
             <Icon name='rub' />
             {price}
         </Card.Content>
-        <Button onClick={addToCart.bind(this, music)} color="green"> Добавить в корзину {addedCount > 0 && `(${addedCount})`} </Button>
+        <Button onClick={addToCart.bind(this, music)} color="green"> Add to cart {addedCount > 0 && `(${addedCount})`} </Button>
       </Card>
     );
  };
