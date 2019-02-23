@@ -1,0 +1,139 @@
+[
+    {
+      "id": 0,
+      "title": "The Beatles",
+      "composer": "John Winston Ono Lennon",
+      "image":
+        "https://i.pinimg.com/236x/eb/9b/31/eb9b3184b0fd4837ff47f91b71edcdab--beatles-band-los-beatles.jpg?b=t",
+      "price": 657,
+      "description" : "The Beatles were an English rock band formed in Liverpool in 1960. With members John Lennon, Paul McCartney, George Harrison and Ringo Starr, they became regarded as the foremost and most influential music band in history.[1] Rooted in skiffle, beat and 1950s rock and roll, the group were integral to pop music's evolution into an art form and to the development of the counterculture of the 1960s.[2] They often incorporated classical elements, older pop forms and unconventional recording techniques in innovative ways, and later experimented with several musical styles ranging from pop ballads and Indian music to psychedelia and hard rock. "
+    },
+    {
+      "id": 1,
+      "title": "Kn1ght",
+      "composer": "Electro/Synthwave",
+      "image":
+        "https://www.residentadvisor.net/images/events/flyer/2017/6/fr-0609-970089-front.jpg",
+      "price": 984,
+      "description": "Electronic music founded in 1999."
+    },
+    {
+      "id": 2,
+      "title": "Scorpions",
+      "composer": "Rudolf Schenker",
+      "image":
+        "https://pimg.dmcdn.cn/perform/project/1620/162044_n.jpg",
+      "price": 549,
+      "description": "Scorpions are a German rock band formed in 1965 in Hanover by Rudolf Schenker. Since the band's inception, its musical style has ranged from hard rock to heavy metal. The lineup from 1978–1992 was the most successful incarnation of the group, and included Klaus Meine (vocals), Rudolf Schenker (rhythm guitar), Matthias Jabs (lead guitar), Francis Buchholz (bass guitar), and Herman Rarebell (drums). The band's only constant member has been Schenker, although Meine has been the lead singer for all of Scorpions' studio albums, while Jabs has been a consistent member since 1979, and bassist Paweł Mąciwoda and drummer Mikkey Dee have been in the band since 2003 and 2016 respectively."
+    },
+    {
+      "id": 3,
+      "title": "Queen",
+      "composer": "Freddie Mercury",
+      "image":
+        "https://kontramarka.ua/uploads/resize/main/420x594_show_Rl3AazltNo3aoBzRPlKlUkt081wZRt4Q.jpg",
+      "price": 881,
+      "description": "Queen are a British rock band formed in London in 1970. Their classic line-up was Freddie Mercury (lead vocals and piano), Brian May (lead guitar and vocals), Roger Taylor (drums and vocals), and John Deacon (bass guitar). Their earliest works were influenced by progressive rock, hard rock and heavy metal, but the band gradually ventured into more conventional and radio-friendly works by incorporating further styles, such as arena rock and pop rock."
+    },
+    {
+      "id": 4,
+      "title": "Two Steps From Hell",
+      "composer": "Thomas Bergersen",
+      "image":
+        "https://i.pinimg.com/236x/56/e7/95/56e795fafa8d17a9d06bf23282abf5df--two-steps-from-hell.jpg?b=t",
+      "price": 716,
+      "description": "Two Steps from Hell is an American production music company based in Los Angeles, California, founded by Thomas Bergersen and Nick Phoenix in 2006.[1] The company focuses predominantly on movie and trailer music, and has supplied tracks to films such as Interstellar, Harry Potter, Pirates of the Caribbean, and X-Men."
+    },
+    {
+      "id": 5,
+      "title": "Audiomachine",
+      "composer": "Paul Dinletir, Carol Sovinski",
+      "image":
+        "https://img.discogs.com/IrVbLqW6n8o3gm-6_ylfG5np7Vo=/fit-in/556x792/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7528446-1443357003-5687.jpeg.jpg",
+      "price": 598,
+      "description": "Audiomachine is a production music company based in Los Angeles, California. The company was founded by Paul Dinletir and Carol Sovinski in August 2005, producing music composed by Paul Dinletir and Kevin Rix. Genre Epic music, Symphonic, electronic, instrumental"
+    },
+    {
+      "id": 6,
+      "title":
+        "Enigma",
+      "composer": "Michael Cretu",
+      "image":
+        "https://img.yakaboo.ua/media/catalog/product/cache/1/image/398x565/234c7c011ba026e66d29567e1be1d1f7/6/3/633637_01.jpg",
+      "price": 679,
+      "description": "Enigma is a German musical project founded in 1990 by Romanian-German musician and producer Michael Cretu.[1] Cretu had released several solo records, collaborated with various artists, and produced albums for his then wife, German pop singer Sandra, before he conceived the idea of a New Age, Worldbeat project. He recorded the first Enigma studio album, MCMXC a.D. (1990), with contributions from David Fairstein and Frank Peterson."
+    },
+    {
+      "id": 7,
+      "title": "Nightwish",
+      "composer": "Tuomas Holopainen",
+      "image":
+        "https://upload.wikimedia.org/wikipedia/ru/thumb/8/83/Nightwish_End_Of_An_Era.jpeg/270px-Nightwish_End_Of_An_Era.jpeg",
+      "price": 547,
+      "description": "Nightwish is a symphonic metal band from Kitee, Finland. The band was formed in 1996 by lead songwriter and keyboardist Tuomas Holopainen, guitarist Emppu Vuorinen, and former lead singer Tarja Turunen[1]. The band soon picked up drummer Jukka Nevalainen, and then bassist Sami Vänskä after the release of their debut album, Angels Fall First (1997). In 2001, Vänskä was replaced by Marco Hietala, who also took over the male vocalist role previously filled by Holopainen or guest singers."
+    },
+    {
+      "id": 8,
+      "title": "Imagine Dragons",
+      "composer": "Dan Reynolds",
+      "image":
+        "https://resizing.flixster.com/op9so00ropFBfUpgcUMtinSqSoI=/206x305/v1.bTsxMTE3ODkyOTtqOzE4MDM5OzEyMDA7MTA1NzsxNTAw",
+      "price": 798,
+      "description": "Imagine Dragons is an American pop rock band from Las Vegas, Nevada, consisting of lead vocalist Dan Reynolds, lead guitarist Wayne Sermon, bassist Ben McKee, and drummer Daniel Platzman. Imagine Dragons' musical style has mainly been described as alternative rock, pop rock, indie rock, electronic rock, dance-pop electropop, pop, and arena rock."
+    },
+    {
+      "id": 9,
+      "title": "Red Hot Chilli Peppers",
+      "composer": "Anthony Kiedis",
+      "image":
+        "https://i.pinimg.com/originals/e3/22/95/e32295191c424be6cfca645c9162467f.jpg",
+      "price": 756,
+      "description": "Red Hot Chili Peppers are an American rock band formed in Los Angeles in 1983. The group's musical style primarily consists of rock with an emphasis on funk, as well as elements from other genres such as punk rock and psychedelic rock. When played live, their music incorporates elements of jam band due to the improvised nature of many of their performances. Currently, the band consists of founding members vocalist Anthony Kiedis and bassist Flea (Michael Peter Balzary), longtime drummer Chad Smith, and former touring guitarist Josh Klinghoffer."
+    },
+    {
+      "id": 10,
+      "title": "Celtic Woman",
+      "composer": "Máiréad Carlin",
+      "image":
+        "https://d29ci68ykuu27r.cloudfront.net/items/19792982/cover_images/cover-medium_large_file.png",
+      "price": 698,
+      "description": "Celtic Woman is an all-female Irish musical ensemble conceived and created by David Kavanagh, Sharon Browne[1][2] and David Downes, a former musical director of the Irish stage show Riverdance.[3][4] In 2004, he recruited five Irish female musicians who had not previously performed together: vocalists Chloë Agnew, Órla Fallon, Lisa Kelly and Méav Ní Mhaolchatha, and fiddler Máiréad Nesbitt"
+    },
+    {
+      "id": 11,
+      "title":
+        "Music by Akira Yamaoka",
+      "composer": "Akira Yamaoka",
+      "image":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtcJD6ygaglyTbypGebEFlILwa7exJHBzArD7zvY-6nojM65TFww",
+      "price": 851,
+      "description": "Akira Yamaoka (山岡 晃 Yamaoka Akira, born February 6, 1968) is a Japanese video game composer, sound designer, guitarist, and producer, best known for composing various games in the Silent Hill series by Konami. He also once worked as a producer on the series, as well as serving as a composer and producer of the Silent Hill film and its sequel.[1][2] Since 2010, he has been the sound director at Grasshopper Manufacture."
+    },
+    {
+      "id": 12,
+      "title": "Music by Ludovico Einaudi",
+      "composer": "Ludovico Einaudi",
+      "image":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHDDUkeUYVDS2MtGyV4rt_sOtP0CRH2OM4XhQyX805FvKI_wGnXw",
+      "price": 736,
+      "description":  "Ludovico Maria Enrico Einaudi. (born 23 November 1955) is an Italian pianist and composer. Trained at the Conservatorio Verdi in Milan, Einaudi began his career as a classical composer, later incorporating other styles and genres such as pop, rock, folk, and world music. Einaudi composed the scores for a number of films and trailers, including This Is England, The Intouchables and I'm Still Here, the TV miniseries Doctor Zhivago, and Acquario in 1996, for which he won the Grolla d'oro for best soundtrack."
+    },
+    {
+      "id": 13,
+      "title": "Comptine d'un autre été (Amelie)",
+      "composer": "Yann Tiersen",
+      "image":
+        "https://images-na.ssl-images-amazon.com/images/I/418tEpGF4wL.jpg",
+      "price": 573,
+      "description": "Yann Tiersen (born 23 June 1970) is a French musician and composer. His musical career is split between studio albums, collaborations and film soundtracks. His music involves a large variety of instruments; primarily the guitar, piano, synthesizer or violin together with instruments like the melodica, xylophone, toy piano, harpsichord, accordion and typewriter."
+    },
+    {
+      "id": 14,
+      "title": "One Republic",
+      "composer": "Digital Tome",
+      "image":
+        "http://wallpoper.com/images/00/06/82/38/dreaming-out-loud-2_00068238.jpg",
+      "price": 712,
+      "description": "OneRepublic is an American pop rock band formed in Colorado Springs, Colorado in 2002 consisting of lead vocalist Ryan Tedder, guitarist Zach Filkins, guitarist Drew Brown, bassist and cellist Brent Kutzle, and drummer Eddie Fisher. The band first achieved commercial success on Myspace as an unsigned act. In late 2002, after OneRepublic played shows throughout the Los Angeles area, a number of record labels approached the band with interest, but the band ultimately signed with Velvet Hammer, an imprint of Columbia Records."
+    }
+  ]
